@@ -6,7 +6,7 @@ function Dates({ datos }) {
         <div>
             {datos.map((dato, index) => (
                 <div key={index} className="card">
-                    <h2>felicitaciones acabas de registrarte exitosamente!!</h2>
+                    <h2>felicitaciones te registrarte exitosamente!!</h2>
                     <table>
                         <tr>
                             <th>nombre</th>
